@@ -1,0 +1,5 @@
+﻿[config]
+all=1
+reload=0
+nick=Jack_Harley
+
