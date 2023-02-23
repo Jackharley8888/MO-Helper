@@ -14,3 +14,4 @@
 00331-10000-00001-AA567,https://vk.com/maccarter
 00330-80000-00000-AA742,https://vk.com/illya_1
 00331-10000-00001-AA861,https://vk.com/xertamtorsd
+00331-10000-00001-AA092,https://vk.com/almazovv_d
