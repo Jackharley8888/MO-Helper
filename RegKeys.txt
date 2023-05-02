@@ -30,3 +30,4 @@
 00330-80000-00000-AA920,https://vk.com/paroliw
 00331-10000-00001-AA368,https://vk.com/salam2810
 00436-50000-00000-AAOEM,https://vk.com/ryo_kido
+00425-00000-00002-AA158,https://vk.com/ferg.love
