@@ -35,3 +35,4 @@
 00330-80000-00000-AA029,https://vk.com/roma1515
 00426-OEM-8992662-00173,https://vk.com/22ageev
 00331-10000-00001-AA175,https://vk.com/chopniyglist
+00330-80000-00000-AA506,https://vk.com/acril01
