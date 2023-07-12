@@ -41,3 +41,4 @@
 00331-10000-00001-AA095,https://vk.com/id466604626
 00330-80000-00000-AA080,https://vk.com/killnet.rostovskiy161rus
 00326-10000-00000-AA186,https://vk.com/id492634175
+00331-10000-00001-AA080,https://vk.com/dmitriyystanin
