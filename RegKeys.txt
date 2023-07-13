@@ -43,3 +43,4 @@
 00326-10000-00000-AA186,https://vk.com/id492634175
 00331-10000-00001-AA080,https://vk.com/dmitriyystanin
 00330-80000-00000-AA423,https://vk.com/stifqa
+00330-80000-00000-AA740,https://vk.com/wayne_6667
