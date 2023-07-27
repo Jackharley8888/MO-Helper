@@ -1,4 +1,5 @@
 [INFO]
 VK_AHK=https://vk.com/ahkradmirharley
-Website_AHK=https://harleyahk.online
+Website_AHK=https://harleyahk.online/
+Website_activation_AHK=https://mo-admin.harleyahk.online/
 Discord_AHK=https://discord.gg/wAeg57vfaD
