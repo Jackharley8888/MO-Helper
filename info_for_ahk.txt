@@ -1,1 +1,1 @@
-VKshop="https://vk.com/markzagr"
+VK_AHK=https://vk.com/ahkradmirharley
