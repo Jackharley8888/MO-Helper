@@ -1,1 +1,1 @@
-VKshop=https://vk.com/markzagr
+VKshop="https://vk.com/markzagr"
