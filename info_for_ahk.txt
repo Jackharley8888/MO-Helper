@@ -1,2 +1,3 @@
+[INFO]
 VK_AHK=https://vk.com/ahkradmirharley
 Website_AHK=https://harleyahk.online
