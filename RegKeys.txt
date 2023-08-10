@@ -40,7 +40,7 @@
 00331-10000-00001-AA801,https://vk.com/g.pelsik
 00331-10000-00001-AA095,https://vk.com/id466604626
 00330-80000-00000-AA290,https://vk.com/killnet.rostovskiy161rus
-00326-10000-00000-AA186,https://vk.com/id492634175
+00331-10000-00001-AA838,https://vk.com/id492634175
 00330-80000-00000-AA012,https://vk.com/dmitriyystanin
 00330-80000-00000-AA423,https://vk.com/stifqa
 00330-80000-00000-AA740,https://vk.com/wayne_6667
