@@ -37,7 +37,7 @@
 00331-10000-00001-AA175,https://vk.com/chopniyglist
 00330-80000-00000-AA506,https://vk.com/acril01
 00329-00000-00003-AA864,https://vk.com/id301703420
-00331-10000-00001-AA376,https://vk.com/g.pelsik
+00331-10000-00001-AA801,https://vk.com/g.pelsik
 00331-10000-00001-AA095,https://vk.com/id466604626
 00330-80000-00000-AA290,https://vk.com/killnet.rostovskiy161rus
 00326-10000-00000-AA186,https://vk.com/id492634175
