@@ -53,3 +53,4 @@
 00325-80000-00000-AAOEM,https://vk.com/id681312982
 00327-60000-00000-AA926,https://vk.com/a666aa40
 00331-10000-00001-AA428,https://vk.com/prosto.samsa
+00330-80000-00000-AA753,https://vk.com/hatlight
