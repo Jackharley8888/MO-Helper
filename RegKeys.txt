@@ -55,3 +55,4 @@
 00331-10000-00001-AA428,https://vk.com/prosto.samsa
 00330-80000-00000-AA753,https://vk.com/hatlight
 00425-00000-00002-AA115,https://vk.com/kselex39339
+00330-80000-00000-AA680,https://vk.com/v.aacc
