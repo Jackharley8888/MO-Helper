@@ -51,7 +51,7 @@
 00331-10000-00001-AA565,https://vk.com/grahamadax
 00327-60000-00000-AA223,https://vk.com/a777aa40
 00325-80000-00000-AAOEM,https://vk.com/id681312982
-00327-60000-00000-AA926,https://vk.com/a666aa40
+00330-80000-00000-AA451,https://vk.com/a666aa40
 00331-10000-00001-AA428,https://vk.com/prosto.samsa
 00330-80000-00000-AA753,https://vk.com/hatlight
 00425-00000-00002-AA115,https://vk.com/kselex39339
