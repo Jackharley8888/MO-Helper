@@ -58,3 +58,5 @@
 00330-80000-00000-AA680,https://vk.com/v.aacc
 00330-80000-00000-AA542,https://vk.com/acheetomoinick
 00331-10000-00001-AA545,https://vk.com/hirisi00
+00330-80000-00000-AA148,https://vk.com/eva_aven
+00330-80000-00000-AA803,https://vk.com/n8noface
