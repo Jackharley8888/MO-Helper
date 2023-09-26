@@ -64,3 +64,4 @@
 00330-80000-00000-AA872,https://vk.com/masyaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 00331-10000-00001-AA166,https://vk.com/xjssmhh
 00331-10000-00001-AA104,https://vk.com/andrei5325
+00326-30000-00001-AA637,https://vk.com/tikvkad
