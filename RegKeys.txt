@@ -67,3 +67,4 @@
 00326-30000-00001-AA637,https://vk.com/tikvkad
 00330-80000-00000-AA532,https://vk.com/id810374050
 00342-41421-21362-AAOEM,https://vk.com/floydflov
+00329-00000-00003-AA927,https://vk.com/tolikraly
