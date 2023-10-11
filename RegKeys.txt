@@ -70,3 +70,4 @@
 00329-00000-00003-AA927,https://vk.com/tolikraly
 00331-10000-00001-AA886,https://vk.com/artem202
 00330-80000-00000-AA895,https://vk.com/worex1337
+00330-80000-00000-AA201,https://vk.com/ed1no
