@@ -76,3 +76,4 @@
 00331-10000-00001-AA471,https://vk.com/tommyos
 00330-80000-00000-AA515,https://vk.com/paxyil
 00330-80000-00000-AA826,https://vk.com/id811924884
+00331-10000-00001-AA568,https://vk.com/a666aa40
