@@ -93,3 +93,4 @@
 00425-00000-00002-AA975,https://vk.com/egor5160
 00331-10000-00001-AA236,https://vk.com/shakirov1232
 00331-20093-23125-AA643,https://vk.com/takiulin74
+00330-80000-00000-AA447,https://vk.com/misterfler
