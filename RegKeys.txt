@@ -98,3 +98,4 @@
 00330-50000-00000-AAOEM,https://vk.com/id416122189
 00327-30924-99996-AAOEM,https://vk.com/leha_f
 00325-81711-54655-AAOEM,https://vk.com/speshkapig
+00331-10000-00001-AA634,https://vk.com/iclamkaa
