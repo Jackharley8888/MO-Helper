@@ -97,3 +97,4 @@
 00330-80000-00000-AA256,https://vk.com/achotito
 00330-50000-00000-AAOEM,https://vk.com/id416122189
 00327-30924-99996-AAOEM,https://vk.com/leha_f
+00325-81711-54655-AAOEM,https://vk.com/speshkapig
