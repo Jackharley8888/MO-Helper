@@ -103,3 +103,4 @@
 00331-20300-00000-AA291,https://vk.com/8red_wolf8
 00331-10000-00001-AA060,https://vk.com/tr1pa3
 00330-80000-00000-AA861,https://vk.com/id801350563
+00331-10000-00001-AA918,https://vk.com/daniil_avtor
