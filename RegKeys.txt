@@ -104,3 +104,4 @@
 00331-10000-00001-AA060,https://vk.com/tr1pa3
 00330-80000-00000-AA861,https://vk.com/id801350563
 00331-10000-00001-AA918,https://vk.com/daniil_avtor
+00331-10000-00001-AA578,https://vk.com/danil_borozdin
