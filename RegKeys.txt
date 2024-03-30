@@ -104,3 +104,4 @@
 00331-10000-00001-AA918,https://vk.com/daniil_avtor
 00331-10000-00001-AA578,https://vk.com/danil_borozdin
 00436-50000-00000-AAOEM,https://vk.com/ryo_kido
+00330-80000-00000-AA471,https://vk.com/egor5160
