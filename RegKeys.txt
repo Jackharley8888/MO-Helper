@@ -106,3 +106,4 @@
 00436-50000-00000-AAOEM,https://vk.com/ryo_kido
 00330-80000-00000-AA471,https://vk.com/egor5160
 00327-60000-00000-AA813,https://t.me/nikita_marshal,https://vk.com/nikita_marshal(ахк топ)
+00331-10000-00001-AA538,https://vk.com/simopsis
