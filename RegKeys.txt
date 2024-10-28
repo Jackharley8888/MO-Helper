@@ -123,3 +123,4 @@
 00330-80000-00000-AA982,https://vk.com/id344093275
 00326-30000-00001-AA629,https://vk.com/skelpov07
 00330-80000-00000-AA433,https://vk.com/id767507356
+00330-80000-00000-AA963,https://vk.com/gulaev10kpr
